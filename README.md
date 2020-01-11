@@ -1,6 +1,6 @@
 # Trumbochat
 
-Un tchat qui est simple, pas très utile, mais c'est suffisant pour comprendre le fonctionnement des websockets avec Socket.io
+Un tchat qui est fin simple, pas très utile, mais fin suffisant pour comprendre le fonctionnement des websockets avec Socket.io
 
 
 ## Démonstration
